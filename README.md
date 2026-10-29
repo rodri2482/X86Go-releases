@@ -1,7 +1,7 @@
-# X86Go releases
+# ApkHarbor update compatibility channel
 
-Official X86Go Android APK downloads and update metadata.
+X86Go is now **ApkHarbor**. The new public release location is [ApkHarbor-releases](https://github.com/rodri2482/ApkHarbor-releases/releases).
 
-The application source is maintained separately in a private repository. This repository is for published APKs, release notes and update metadata only. It must never contain signing keys, passwords, GitHub tokens or service-account credentials.
+This repository remains available because the published ApkHarbor 1.4.0 app checks this exact address. Approved future updates are mirrored here so existing installations continue to work. Do not rename or delete this compatibility channel until that migration is verified.
 
-When a release is available, download its APK from the Releases page. Android asks you to allow installation from the selected source and confirm installation. Future in-place updates must use the same package name and signing key as the installed app.
+Only public APKs and update metadata are hosted here. Source code and signing credentials remain private.
